@@ -1,0 +1,19 @@
+{
+  "name": "proyectopractica",
+  "version": "1.0.0",
+  "description": "Continuando practicas con bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaicolEgas43/proyectopractica.git"
+  },
+  "author": "megas43",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaicolEgas43/proyectopractica/issues"
+  },
+  "homepage": "https://github.com/MaicolEgas43/proyectopractica#readme"
+}
