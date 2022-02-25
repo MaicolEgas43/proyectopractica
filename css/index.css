@@ -6,11 +6,16 @@
 
 .footer {
     padding: 10px 10px 0 10px;
-    background-color: yellow;
+    background-color: #80aaff;
     margin-bottom: 0px;
     margin-top: 10px;
 }
 
 .footer-address-icon{
     padding-right: 10px;
+}
+
+.card-body{
+    margin: 1px;
+    background-color: #80aaff;
 }
